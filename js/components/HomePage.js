@@ -94,7 +94,7 @@ const HomePage = {
   emits: ['navigate'],
   data() {
     return {
-      profileImage: 'images/profile.jpg',
+      profileImage: '/images/mypic.png',
       roles: [
         'Software Engineer',
         'Full-Stack Developer',
