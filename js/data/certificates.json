@@ -1,0 +1,43 @@
+[
+ {
+  "id": 1,
+  "title": "West African Senior School Certificate Examination (WASSCE)",
+  "issuer": "West African Examinations Council (WAEC)",
+  "date": "2021",
+  "description": "Successfully completed the West African Senior School Certificate Examination, demonstrating proficiency in core secondary school subjects.",
+  "category": "education",
+  "featured": true,
+  "verifyUrl": "https://www.waecdirect.org",
+  "credentialId": "WAEC-2021-XXXXXX",
+  "skills": [
+    "English Language, ",
+    "Mathematics, ",
+    "Chemisty, ",
+    "Physic, ",
+    "Further Mathematics, ",
+    "Social Studies"
+  ]
+},
+  {
+  "id": 2,
+  "title": "National Diploma (ND) in Computer Science",
+  "issuer": "Federal Polytechnic Ile-Oluji",
+  "date": "2024",
+  "description": "Successfully completed the National Diploma program in Computer Science, gaining strong foundations in software development, computer systems, and information technology.",
+  "category": "education",
+  "featured": true,
+  "verifyUrl": "",
+  "credentialId": "FIP/CSC/23/F032",
+  "skills": [
+    "Computer Programming, ",
+    "Web Development, ",
+    "Database Management, ",
+    "System Analysis, ",
+    "Problem Solving, ",
+    "Information Technology, ",
+    "Hardware Maintaninace, ",
+    "Networking"
+  ]
+}
+  
+]
