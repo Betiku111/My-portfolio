@@ -107,10 +107,10 @@ const HomePage = {
       charIndex: 0,
       isDeleting: false,
       socialLinks: [
-        { name: 'GitHub', icon: 'fab fa-github', url: 'https://github.com/betix' },
-        { name: 'LinkedIn', icon: 'fab fa-linkedin', url: 'https://linkedin.com/in/betix' },
-        { name: 'Twitter', icon: 'fab fa-x-twitter', url: 'https://x.com/betix' },
-        { name: 'Instagram', icon: 'fab fa-instagram', url: 'https://instagram.com/betix' },
+       { name: 'GitHub', icon: 'fab fa-github', url: 'https://github.com/Betiku111' },
+        { name: 'LinkedIn', icon: 'fab fa-linkedin', url: 'https://www.linkedin.com/in/betiku-taye-2b46b1338/' },
+        { name: 'Twitter', icon: 'fab fa-x-twitter', url: 'https://x.com/BetikuTaye44512' },
+        { name: 'Instagram', icon: 'fab fa-instagram', url:  'https://www.instagram.com/betikutaye/' },
         { name: 'Upwork', icon: 'fab fa-upwork', url: 'https://upwork.com/betix' },
          { name: 'Fiverr', icon: 'fiverr', url: 'https://fiverr.com/betix' },
       ]
