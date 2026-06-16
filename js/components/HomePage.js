@@ -75,7 +75,7 @@ const HomePage = {
             </div>
             <div class="floating-card card-2">
               <i class="fas fa-check-circle"></i>
-              <span>10+ Certificates</span>
+              <span> Certificates</span>
             </div>
           </div>
         </div>
